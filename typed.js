@@ -816,7 +816,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  /**
 	   * @property {number} backSpeed backspacing speed in milliseconds
 	   */
-	  backSpeed: 60,
+	  backSpeed: 80,
 	
 	  /**
 	   * @property {boolean} smartBackspace only backspace what doesn't match the previous string
@@ -831,7 +831,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  /**
 	   * @property {number} backDelay time before backspacing in milliseconds
 	   */
-	  backDelay: 700,
+	  backDelay: 500,
 	
 	  /**
 	   * @property {boolean} fadeOut Fade out instead of backspace
