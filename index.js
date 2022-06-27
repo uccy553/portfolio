@@ -1,12 +1,7 @@
 
 
 
-// function validateForm() {
-//     let x = document.forms["myForm"]["name"].value;
-//     if (x == "") {
-//       alert("Please Enter your name");
-//       return false;
-//     }
+
     
 //     let email = document.forms["myForm"]["email"].value;
 //     if (email == "") {
